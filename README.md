@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an array to a function expecting a string.  The `greeter` function expects a string, but an array is passed. The solution shows how to correctly handle this scenario by either modifying the function signature or explicitly handling the array input.
